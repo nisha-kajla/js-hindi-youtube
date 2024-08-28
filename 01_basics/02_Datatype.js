@@ -2,4 +2,23 @@
                
 //alert(3+3)//we are using Node js not browser
 
-console.log(3+3);console.log("Agam")
+console.log(3+3)
+
+console.log("Agam")
+
+let name="agam"
+let age=2
+let isloggedIn=false
+let state;
+
+//number=>2 to power 53
+//bigint
+//string=>""
+//boolean=>true/false
+//null=>standalone value
+//undefined=>
+//symbol=>unique
+
+//object
+console.log(typeof null);//object
+console.log(typeof undefined);//undefined
