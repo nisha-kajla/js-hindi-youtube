@@ -14,15 +14,16 @@ console.log(valueInNumber);
 let isloggedIn="Nav"
 
 let booleanIsloggedIn=Boolean(isloggedIn)
-console.log(booleanIsloggedIn);
+//console.log(booleanIsloggedIn);
 
 //1=>true; 0=>false;
 //"=>false";
 //"Nav"=>true;
 
-letsomeNumber=33
+let someNumber=33
 
 let stringNumber=String(someNumber)
 console.log(stringNumber);
+console.log(typeof stringNumber);
 
 
