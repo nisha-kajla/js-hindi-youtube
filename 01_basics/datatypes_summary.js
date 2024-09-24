@@ -48,13 +48,12 @@ console.log(anothername);
 
 let userOne={
     email:"use@google.com",
-    upid:"user@ybl"
+    upi:"user@ybl"
 }
 
-let usertwo= userOne
+let userTwo= userOne
 
-usertwo = userOne
+userTwo.email="hitesh@google.com"
 
-usertwo.email="hitesh@google.com"
 console.log(userOne.email);
-console.log(userTwo.email);
+console.log(userTwo.email);j
